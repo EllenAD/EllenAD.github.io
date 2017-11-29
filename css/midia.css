@@ -1,4 +1,4 @@
-body{background: url(../imagens/cine.png);}
+body{background: url(../imagens/cine.png);} /* A url fará o uma imagem ser o background */
 
 #area-principal{background-color: rgba(0, 0, 0, 0.7);
                 width: 1000px;

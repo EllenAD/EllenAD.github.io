@@ -5,7 +5,7 @@ body{background: url(../imagens/17.jpg);
 #postagem span{color: #fc16b3;}
 
 p, li, ol, ul{font-size: 18px;
-              color: white;}
+              color: white;}  /* Todos os p, li, ol e ul estarão com o mesmo tamanho de fonte e a mesma cor*/
 
 h1{color: #00FFFF;}
 
@@ -17,7 +17,7 @@ li{color: #00BFFF;
   margin-left: 15px
   font-weight: bolder;}
 
-#area-principal{width: 900px;
+#area-principal{width: 1000px;
                 padding: 20px 40px;
                 margin: 40px auto;
                 background-color: rgba(0, 0, 14, 0.9);

@@ -44,7 +44,7 @@ a:hover{background-color: white;}
               margin-right: 18px;}
 
 
-#area-principal-home{width: 900px;
+#area-principal-home{width: 1000px;
                 padding: 12px 20px;
                 margin: -125px auto;
                 background-color: white;
@@ -65,11 +65,15 @@ a:hover{background-color: white;}
         font-size: 20px;}
 
 #area{width: 60%;
-      margin: 0 auto;}
+      margin: 0 auto;
+      min-width: 1196px;
+    }
 
 #logo{float: left;
       padding: 0px 130px;;
       color: #00F5FF;
-      font-size: 37px;}
+      font-size: 37px;
+      margin-top: 0;
+    }
 
 #est{width: 200px;}
