@@ -1,0 +1,13 @@
+#galeria-foto{width: 370px;
+             float: left;
+             margin: 60px;
+             border: 5px double red;
+             float: left;}
+
+body{background: url(../imagens/31.jpg);}
+
+#galeria-foto:hover{background: #28fff7;
+  transition: background 3s; } /* A transição fará o background do body se transformar no background dessa div, quando a pessoa passar o mouse*/
+
+img{width: 370px;
+    height: 370px;}

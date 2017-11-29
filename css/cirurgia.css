@@ -1,0 +1,23 @@
+body{background: url(../imagens/bandeja.jpg);}
+
+#area-principal{width: 900px;
+                padding: 12px 20px;
+                margin: 70px auto;
+                background-color: rgba(10, 70, 37, 0.6);;
+                border-radius: 8px; }
+
+iframe, img{margin-left: 170px;
+      margin-right: 100px;}
+
+h1{color: #00FF00;}
+h2{font-size: 30px;
+   color: #7FFF00;}
+
+p{color: white;
+  font-size: 19px;}
+
+.data-postagem{color:#00EE76;
+              border: none;
+              font-size: 20px;}
+
+.postado-por{color: #00EE76;}

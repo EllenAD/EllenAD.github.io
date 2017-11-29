@@ -1,0 +1,75 @@
+*{margin: 0;
+ padding: 0;} /* Limpar formatações padrão */
+
+body{background: url(../imagens/batimentos.jpg);}
+
+h1{text-align: center;
+          color: #B22222;
+          font-size: 43px;}
+
+table{
+  border: solid 2px #00BFFF;
+  clear: both;
+}
+
+th{text-align: left;
+   padding: 10px;
+   margin: auto;
+   color: #000080;}
+
+td{text-align: left;
+   padding: 10px;
+   margin: 10px;}
+
+a:hover{background-color: white;}
+
+.data-postagem{float: right;
+              border: inset #1E90FF;}
+
+.postado-por{color: #1E90FF }
+
+.series{font-size: 30px;
+        padding-left: 15px;}
+
+.azul{color: blue;}
+
+.img-s{align: center;
+      width: 700px;}
+
+#postagem{padding: 30px;}
+
+#elemento-parcial{padding-top: 70px;} /* Utiliza uma parte da tela */
+
+.img-postagem {float: left;
+              margin-right: 18px;}
+
+
+#area-principal-home{width: 900px;
+                padding: 12px 20px;
+                margin: -125px auto;
+                background-color: white;
+                border-radius: 8px;}
+
+#navegacao{border-bottom: 1px solid #d8d8d8;
+          height: 45px;
+          background-color: #1C1C1C;
+          width: 100%;
+          position: fixed;}
+
+#menu{float: right;
+      padding: 14px 5px;}
+
+#menu a{padding: 5px;
+        text-decoration: none;
+        color: red;
+        font-size: 20px;}
+
+#area{width: 60%;
+      margin: 0 auto;}
+
+#logo{float: left;
+      padding: 0px 130px;;
+      color: #00F5FF;
+      font-size: 37px;}
+
+#est{width: 200px;}

@@ -1,0 +1,27 @@
+body{background: url(../imagens/17.jpg);
+    font-family: serif "Times New Roman";
+    margin-left: -40px;}
+
+#postagem span{color: #fc16b3;}
+
+p, li, ol, ul{font-size: 18px;
+              color: white;}
+
+h1{color: #00FFFF;}
+
+h2{color: #00CED1;
+  font-size: 29px;}
+
+li{color: #00BFFF;
+  font-size: 23px;
+  margin-left: 15px
+  font-weight: bolder;}
+
+#area-principal{width: 900px;
+                padding: 20px 40px;
+                margin: 40px auto;
+                background-color: rgba(0, 0, 14, 0.9);
+                border-radius: 20px;}
+
+.data-postagem{float: right;
+              border: none;}

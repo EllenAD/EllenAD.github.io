@@ -1,0 +1,46 @@
+
+#eu{width: 310px;
+    height: 600px;
+    margin-left: 5px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    margin-top: 30px;}
+
+#eu p{color: white;}
+
+img{width: 270px;
+    height: 330px;
+    float: left;
+    margin: 20px 5px 15px 15px;
+    border-radius: 10px;}
+
+
+#p p {padding: 15px;
+      margin: 10px 20px;
+      text-align: justify;}
+
+body{background: url(../imagens/coracao.jpg);
+     background-size: cover;}
+
+#contato{background-color: rgba(0,0,0,0.5);
+        width: 330px;
+        height: 380px;
+        margin-top: 0px;
+        padding: 15px 35px;
+        border-radius: 25px;
+        text-align: justify;
+        position: absolute;
+        top: 220px;
+        right: 240px;
+        color: white;}
+
+#contato legend{padding: 15px;}
+
+
+#contato input{border-radius: 8px;}
+#contato textarea{border-radius: 12px;
+                  padding: 8px;}
+
+#enviar{float: right;
+        margin-right: -2px;}

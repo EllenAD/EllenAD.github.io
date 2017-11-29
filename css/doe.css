@@ -1,0 +1,15 @@
+body{background: url(../imagens/doacao.jpeg); }
+
+form{background: linear-gradient(to top, red, white);
+    width: 980px;
+    height: 460px;
+    margin: 100px auto;
+    padding: 0px 27px;
+    border-radius: 25px;}
+
+fieldset{padding: 10px}
+
+
+#doacao{background: url(../imagens/37.jpg);}
+
+#doar{background: rgba(0,0,0,0.3);}
